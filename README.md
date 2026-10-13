@@ -2,7 +2,7 @@
 
 A new detective game every day. Search the scene, question the suspects, compare their alibis, and catch the culprit before you run out of guesses.
 
-**Play it:** [add your link here]
+**Play it:** [https://soundman10.github.io/Daily-mystery/]
 
 ## How to play
 
